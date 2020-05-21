@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: 
+
+Translator/src/test/java/nl/mpi/translation/tools/LocalFileAwareUrlStreamResolverTest.java
